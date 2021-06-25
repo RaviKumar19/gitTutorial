@@ -2,3 +2,4 @@ This is a Sample text file.
 some new code changes updates
 new code changes in master.
 new code changes in newBrach2
+Updating directly on Remote Repo
